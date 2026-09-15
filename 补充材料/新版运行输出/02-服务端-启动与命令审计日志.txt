@@ -1,0 +1,10 @@
+首次运行，已写入 5 条失物招领初始信息，可直接查看与查询。
+校园失物招领服务已启动，监听端口：9881
+[14:46:28] 收到命令 publish，参数 {type=FOUND, title=黑色钱包, location=图书馆三楼, contact=王同学 13900000000}
+[14:46:28] 收到命令 publish，参数 {type=LOST, title=蓝色折叠雨伞, location=第一教学楼201教室, contact=李同学 13700000000}
+[14:46:28] 收到命令 list，参数 {}
+[14:46:28] 收到命令 search，参数 {keyword=钱包, type=, status=}
+[14:46:28] 收到命令 detail，参数 {id=6}
+[14:46:28] 收到命令 claim，参数 {id=6, claimer=董佳滢}
+[14:46:28] 收到命令 claim，参数 {id=6, claimer=张三}
+[14:46:28] 收到命令 stats，参数 {}
